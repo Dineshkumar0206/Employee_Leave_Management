@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java / Gradle / Maven
+backend/.gradle/
+backend/build/
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.eslintcache
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
