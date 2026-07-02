@@ -16,7 +16,7 @@ A full-stack employee leave management application built with React, Spring Boot
 ## 🧱 Tech Stack
 
 - Frontend: React.js + Vite
-- Backend: Java 17 + Spring Boot 3 + Spring Security
+- Backend: Java 25 + Spring Boot 4 + Spring Security
 - Database: MySQL + Spring Data JPA
 - Authentication: JWT
 
@@ -30,7 +30,7 @@ A full-stack employee leave management application built with React, Spring Boot
 
 Before running the project, make sure you have the following installed:
 
-- Java 17+
+- Java 25+
 - Maven or the Maven wrapper
 - Node.js and npm
 - MySQL Server
